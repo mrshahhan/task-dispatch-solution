@@ -1,0 +1,132 @@
+[
+  {
+    "id": "o-101",
+    "storeId": "s-1",
+    "city": "Алматы",
+    "lat": 43.238,
+    "lon": 76.912,
+    "pickupPointId": "pp-ala-01",
+    "manualBranchId": null,
+    "createdAt": "2026-11-15T19:30:00Z"
+  },
+  {
+    "id": "o-102",
+    "storeId": "s-1",
+    "city": "Алматы",
+    "lat": 43.25,
+    "lon": 76.9,
+    "pickupPointId": null,
+    "manualBranchId": "b-ast-1",
+    "createdAt": "2026-11-16T04:12:00Z"
+  },
+  {
+    "id": "o-103",
+    "storeId": "s-1",
+    "city": "Астана",
+    "lat": 51.09,
+    "lon": 71.42,
+    "pickupPointId": null,
+    "manualBranchId": null,
+    "createdAt": "2026-11-16T04:20:00Z"
+  },
+  {
+    "id": "o-104",
+    "storeId": "s-1",
+    "city": "Алматы",
+    "lat": 43.271,
+    "lon": 76.829,
+    "pickupPointId": null,
+    "manualBranchId": null,
+    "createdAt": "2026-11-16T04:41:00Z"
+  },
+  {
+    "id": "o-105",
+    "storeId": "s-2",
+    "city": "Шымкент",
+    "lat": 42.3,
+    "lon": 69.6,
+    "pickupPointId": null,
+    "manualBranchId": null,
+    "createdAt": "2026-11-16T05:03:00Z"
+  },
+  {
+    "id": "o-106",
+    "storeId": "s-1",
+    "city": "Алматы",
+    "lat": null,
+    "lon": null,
+    "pickupPointId": null,
+    "manualBranchId": null,
+    "createdAt": "2026-11-16T05:15:00Z"
+  },
+  {
+    "id": "o-107",
+    "storeId": "s-1",
+    "city": "Конаев",
+    "lat": 43.8667,
+    "lon": 77.0667,
+    "pickupPointId": null,
+    "manualBranchId": null,
+    "createdAt": "2026-11-16T05:30:00Z"
+  },
+  {
+    "id": "o-108",
+    "storeId": "s-1",
+    "city": "Алматы",
+    "lat": 43.2335,
+    "lon": 76.954,
+    "pickupPointId": "pp-ala-04",
+    "manualBranchId": "b-ala-3",
+    "createdAt": "2026-11-16T05:48:00Z"
+  },
+  {
+    "id": "o-109",
+    "storeId": "s-1",
+    "city": "Алматы",
+    "lat": 43.239,
+    "lon": 76.91,
+    "pickupPointId": "pp-ala-02",
+    "manualBranchId": null,
+    "createdAt": "2026-11-16T06:02:00Z"
+  },
+  {
+    "id": "o-110",
+    "storeId": "s-1",
+    "city": "Алматы",
+    "lat": 43.242,
+    "lon": 76.918,
+    "pickupPointId": "pp-ala-02",
+    "manualBranchId": null,
+    "createdAt": "2026-11-16T07:25:00Z"
+  },
+  {
+    "id": "o-111",
+    "storeId": "s-1",
+    "city": "Алматы",
+    "lat": 43.245,
+    "lon": 76.905,
+    "pickupPointId": "pp-ala-02",
+    "manualBranchId": null,
+    "createdAt": "2026-11-16T09:40:00Z"
+  },
+  {
+    "id": "o-112",
+    "storeId": "s-1",
+    "city": "Алматы",
+    "lat": 43.241,
+    "lon": 76.916,
+    "pickupPointId": "pp-ala-02",
+    "manualBranchId": null,
+    "createdAt": "2026-11-16T19:10:00Z"
+  },
+  {
+    "id": "o-113",
+    "storeId": "s-1",
+    "city": "Алматы",
+    "lat": 43.24,
+    "lon": 76.914,
+    "pickupPointId": "pp-ala-01",
+    "manualBranchId": null,
+    "createdAt": "2026-11-15T18:50:00Z"
+  }
+]

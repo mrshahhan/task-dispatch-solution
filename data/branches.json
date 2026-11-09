@@ -1,0 +1,57 @@
+[
+  {
+    "id": "b-ala-1",
+    "storeId": "s-1",
+    "name": "Алматы, Абая",
+    "city": "Алматы",
+    "lat": 43.2402,
+    "lon": 76.915,
+    "active": true,
+    "pickupPointIds": ["pp-ala-01", "pp-ala-02"],
+    "dailyLimit": 3
+  },
+  {
+    "id": "b-ala-2",
+    "storeId": "s-1",
+    "name": "Алматы, Алатау",
+    "city": "Алматы",
+    "lat": 43.265,
+    "lon": 76.835,
+    "active": true,
+    "pickupPointIds": ["pp-ala-03"],
+    "dailyLimit": 40
+  },
+  {
+    "id": "b-ala-3",
+    "storeId": "s-1",
+    "name": "Алматы, Достык",
+    "city": "Алматы",
+    "lat": 43.233,
+    "lon": 76.956,
+    "active": false,
+    "pickupPointIds": ["pp-ala-04"],
+    "dailyLimit": 40
+  },
+  {
+    "id": "b-ast-1",
+    "storeId": "s-1",
+    "name": "Астана, Есиль",
+    "city": "Астана",
+    "lat": 51.1282,
+    "lon": 71.4304,
+    "active": true,
+    "pickupPointIds": ["pp-ast-01"],
+    "dailyLimit": 40
+  },
+  {
+    "id": "b-shy-1",
+    "storeId": "s-2",
+    "name": "Шымкент, Тауке хана",
+    "city": "Шымкент",
+    "lat": 42.3417,
+    "lon": 69.5901,
+    "active": true,
+    "pickupPointIds": [],
+    "dailyLimit": 40
+  }
+]
